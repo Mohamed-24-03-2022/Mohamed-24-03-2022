@@ -16,24 +16,22 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
-<div id="badges">
+<div id="badges" align="center">
+  <h2> Find me here </h2>
   <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=black" alt="Instagram Badge"/>
  <a href="https://www.instagram.com/mohbouzent"></a>
 </div>
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 # Who am i ?
 
 I'm Mohamed, an enthusiast self taught developer and a life long student.
 
 ## Tech I'm Using
-
-
-
-
-<div style="text-align:center"><img src="" /></div>  
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 
