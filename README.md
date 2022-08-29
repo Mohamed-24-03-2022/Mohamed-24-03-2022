@@ -13,11 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
 </div>
 
-# Who am i ?
+# Who Am I ?
 I'm Mohamed, an enthusiast self taught developer and a life long student.  
 Currently i'm learning web development from <a href="https://www.theodinproject.com/">The Odin Project.</a>
 
