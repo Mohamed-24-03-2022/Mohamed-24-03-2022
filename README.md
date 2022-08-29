@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 <div id="header" align="center">
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
-<div id="badges" align="center">
-  <h2> Find me here </h2>
-  <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=black" alt="Instagram Badge"/>
- <a href="https://www.instagram.com/mohbouzent"></a>
-</div>
 
 # Who am i ?
 
@@ -32,6 +27,14 @@ I'm Mohamed, an enthusiast self taught developer and a life long student.
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
+## Tech I'm learning
+
+## You can also find me here
+<div id="badges" align="center">
+  <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=black" alt="Instagram Badge"/>
+ <a href="https://www.instagram.com/mohbouzent"></a>
 </div>
 
 
