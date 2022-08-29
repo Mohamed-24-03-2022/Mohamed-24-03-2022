@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=black" alt="Instagram Badge"/>
