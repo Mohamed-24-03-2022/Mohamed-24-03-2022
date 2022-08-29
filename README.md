@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="200"/>
 </div>
 <div id="badges">
   <img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=black" alt="Instagram Badge"/>
+ <a href="https://www.instagram.com/mohbouzent"></a>
 </div>
 <h1>
   hey there
