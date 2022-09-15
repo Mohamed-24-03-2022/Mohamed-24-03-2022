@@ -32,5 +32,5 @@ Currently i'm learning web development from <a href="https://www.theodinproject.
 
 ## You can also find me here
 <div id="badges">
- <a href="https://www.instagram.com/mohbouzent"><img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=black" alt="Instagram Badge"/></a>
+ <a href="https://www.instagram.com/mohbznt"><img src="https://img.shields.io/badge/instagram-pink?logo=instagram&logoColor=black" alt="Instagram Badge"/></a>
 </div>
