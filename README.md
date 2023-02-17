@@ -30,6 +30,8 @@ Currently i'm learning web development from <a href="https://www.theodinproject.
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" **alt="webpack" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" **alt="babel" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="eslint" **alt="eslint" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" **alt="react" width="40" height="40"/>
 
 </div>
