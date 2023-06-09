@@ -35,7 +35,13 @@ Currently i'm learning web development from <a href="https://www.theodinproject.
      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react" **alt="react" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="jest" **alt="jest" width="40" height="40"/>
      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" **alt="tailwindcss" width="40" height="40"/>
+  
+     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" **alt="express" width="40" height="40"/>
+    <img src="  https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" **alt="firebase" width="40" height="40"/>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="materialui" **alt="materialui" width="40" height="40"/>
 
+  
+  
 </div>
 
 ## You can also find me here
